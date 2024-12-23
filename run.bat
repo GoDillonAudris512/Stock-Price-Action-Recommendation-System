@@ -1,0 +1,6 @@
+(load fundamental_1.clp)
+(load fundamental_2.clp)
+(load fundamental.clp)
+(load technical.clp)
+(load KBS.clp)
+(reset)
